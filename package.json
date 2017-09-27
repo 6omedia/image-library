@@ -1,0 +1,26 @@
+{
+  "name": "@mikeyeah29/image-library",
+  "version": "1.0.1",
+  "description": "Creates image library",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/6omedia/image-library.git"
+  },
+  "author": "Mike Rockett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/6omedia/image-library/issues"
+  },
+  "homepage": "https://github.com/6omedia/image-library#readme",
+  "dependencies": {
+    "express-fileupload": "^0.2.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.3"
+  }
+}
